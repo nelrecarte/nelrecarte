@@ -1,6 +1,6 @@
 # Hi, I'm Nelson Recarte
 
-Backend-focused developer based in San Pedro Sula, Honduras, working in **C#/.NET**, **Node.js** and **PostgreSQL**, building APIs and data-driven features for production business software. I care about correctness and reliability: transactional data handling, tested features, and production issues traced to their root cause.
+Backend developer based in San Pedro Sula, Honduras, with 3+ years building software (1.5 professionally) in **C#/.NET**, **Node.js** and **PostgreSQL**, delivering APIs and data-driven features for production business software. Focused on correctness and reliability: transactional data handling, tested features, and production issues traced to their root cause.
 
 - Associate Software Developer at **Creative Information Technologies**
 - Studying Ingeniería en Informática (Computer Engineering) at **CEUTEC**
@@ -16,10 +16,12 @@ A trading card marketplace (5 games, singles and sealed) with a seller portal an
 ## Skills
 
 **Backend:** C# · ASP.NET Core / .NET 8 · Entity Framework Core · Node.js · NestJS · TypeScript · JavaScript · REST APIs  
-**Architecture:** Clean / hexagonal architecture · SOLID · event-driven architecture · background jobs · microservice-ready design  
+**Architecture:** Clean/hexagonal architecture · SOLID · event-driven design · job queues · microservice-ready modules  
 **Data:** PostgreSQL · SQL · query optimization · data migrations  
+**Security:** authentication and authorization (RBAC, OAuth/JWT)  
 **Cloud & tools:** AWS (Lambda, ECS, S3) · Docker · CI (GitHub Actions) · Git · Azure DevOps · Postman  
 **Testing:** unit and integration testing (Vitest) · end-to-end testing (Playwright)  
+**Practices:** Scrum / Agile · code reviews · Git workflows · root-cause analysis  
 **Frontend (secondary):** Angular · Ionic · React · Next.js · React Native
 
 ## Contact
